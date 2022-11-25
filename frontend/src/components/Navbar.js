@@ -106,11 +106,11 @@ export default function Navbar(props) {
               Logout
             </button>
           </li>
-          {/* <li class="nav-item">
+          { <li class="nav-item">
             <Link class="nav-link text-dark mx-3" id="register" style={{fontSize : "20px"}} to="/register">
               Register
             </Link>
-          </li> */}
+          </li> }
         </ul>
       </div>
     </nav>
